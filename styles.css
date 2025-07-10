@@ -1,0 +1,58 @@
+*{
+    background: #3E2552;
+    padding: auto;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.containerMenu, .container{
+    display: flex;
+    min-width: 50%;
+    flex-direction: column;
+    background: #2C1A3D;
+}
+
+.StaticMenu{
+    width:100%; 
+}
+
+
+
+.title{
+    color: #fff;
+    font-size: 2rem;
+}
+
+.title_2{
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.menu{
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.aboutTxt{
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+.blockExperience{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
+
+.blockExpe{
+    display: flex;
+    color: #fff;
+}
